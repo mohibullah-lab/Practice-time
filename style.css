@@ -1,0 +1,37 @@
+.phone{
+    text-align: center;
+    font-size: 60px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: blue;
+    color: gold;
+    border-radius: 5px;
+    height: 80px;
+    width: 1000px;
+    margin-left: 235px;
+    
+}
+.charger{
+    font-size: 30px;
+    word-wrap: break-word;
+    background-color: darkorchid;
+    color: deeppink;
+    border-radius: 5px;
+    width: 1350px;
+    margin-left: 60px;
+}
+.woak{
+  background-color: brown;
+  margin-left: 250px;
+  margin-top: 50px;
+  
+}
+.tsc{
+  margin-left: 250px;
+  border-radius: 5px;
+  border-style: none;
+  background-color: crimson;
+  color: gold;
+  font-size: 25px;
+  height: 40px;
+  width: 160px;
+}
